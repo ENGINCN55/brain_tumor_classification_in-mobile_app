@@ -9,16 +9,14 @@ Mobil beyin tümörü sınıflandırma uygulaması. Android cihazlarda çalış�
 - Transfer learning ile yüksek doğruluk
 - ONNX formatında model entegrasyonu
 - Jetpack Compose ile modern UI
-- Model çıktısı kullanıcıya string olarak gösterilir (örnek: `"Glioma detected"`)
+- Model çıktısı kullanıcıya string olarak gösterilir 
 
 ## 🤖 Kullanılan Teknolojiler
 
 - Android Studio (Jetpack Compose, Kotlin)
-- PyTorch → ONNX dönüşümü
 - ResNet50 & MobileNetV2 modelleri
 - HuggingFace Model Hub entegrasyonu
 - Glide ile görsel işlemleri
-- ONNX Runtime for Android
 
 ## 📲 APK Özeti
 
@@ -33,7 +31,7 @@ Mobil beyin tümörü sınıflandırma uygulaması. Android cihazlarda çalış�
 
 Projede kullanılan modeller Hugging Face üzerinden erişilebilir:
 
-👉 [ResNet50 & MobileNetV2 (ONNX)](https://huggingface.co/EnginCN55/brain_tumor_classification)
+👉 [ResNet50 & MobileNetV2 ](https://huggingface.co/EnginCN55/brain_tumor_classification)
 
 ## 🛠️ Kurulum (Geliştiriciler için)
 
