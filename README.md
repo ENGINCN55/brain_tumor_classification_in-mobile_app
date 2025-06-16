@@ -35,5 +35,4 @@ Projede kullanılan modeller Hugging Face üzerinden erişilebilir:
 
 ## 🛠️ Kurulum (Geliştiriciler için)
 
-```bash
-git clone https://github.com/kendi-github-username/brain_tumor_classification.git
+
